@@ -21,10 +21,7 @@ def motto():
 
 funFact = "Optimized page load by ~10% during my Euro View internship."
 
-📚 Currently Learning
-🧱 Advanced Django → DRF basics, class-based views, auth patterns
-⚛️ React → components, hooks, state management
-🗂️ System Design → REST principles, DB design, caching basics
+
 
 
 
